@@ -16,39 +16,23 @@
 
 /* navbar */
 
-
 .nav-link:hover {
   color: rgb(0, 110, 255) !important;
  
 }
 
-/* carusol */
-
 /* about */
-/* #about {
-  color: white !important;
-}
- */
 .about-content {
   height: 400px;
 }
+
+
 /* footer */
 #footer {
   color: white !important;
   text-decoration: none;
 }
-/* registration */
-/* #registration {
-  color: white !important;
-} */
-/* product */
-/* #product {
-  color: white !important;
-} */
-/* service team */
-/* #service-team {
-  color: white !important;
-} */
+
 
 /* scroll up */
 
