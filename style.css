@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --color1:#1AACAC;
+  --color2: #EEEEEE;
+  --color3: #2E97A7;
+  --color4: #362FD9;
+}
+
+/* navbar */
+
+
+.nav-link:hover {
+  color: rgb(0, 110, 255) !important;
+ 
+}
+
+/* carusol */
+
+/* about */
+/* #about {
+  color: white !important;
+}
+ */
+.about-content {
+  height: 400px;
+}
+/* footer */
+#footer {
+  color: white !important;
+  text-decoration: none;
+}
+/* registration */
+/* #registration {
+  color: white !important;
+} */
+/* product */
+/* #product {
+  color: white !important;
+} */
+/* service team */
+#service-team {
+  color: white !important;
+}
+
+/* scroll up */
+
+.scrollup {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #362FD9;
+  border-radius: 25px;
+  bottom: 40px;
+  right: 50px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+}
